@@ -1,0 +1,47 @@
+h1{
+    color: #ff4500;
+    background-color: #b772f8;
+    border: 2px solid #ff4500;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+div{
+    background-color: #b772f8;
+    border: 2px solid #ff4500;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+p{
+    background-color: #8a2be2;
+}
+
+#ultima-caixa{
+    background-color: aqua;
+}
+
+.caixa{
+    background-color: blue;
+}
+
+div a {
+    text-decoration: none;
+}
+
+p a {
+    color: #ff4500;
+}
+
+.caixa a {
+ border: solid green;
+}
+.caixa, a {
+ border: solid green;
+}
+
+#ultima-caixa, p{
+    margin-top: 32px;
+}
+
